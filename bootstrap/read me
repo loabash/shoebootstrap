@@ -1,0 +1,19 @@
+steps
+1.to use bootstrap better have a div with class container or container-fluid
+2.link your bootstrap:use cdn or local package
+3.build out the grid.
+rules: columns are within containers
+4.add elements inside the div with class col.
+5.style using either or bootstrap classes or local css
+
+
+
+1.pwd: print working directory
+2.ls:list
+3.cd: change directory
+cd name of the folder
+cd..used to get out of a folder
+mkdir: make directory
+mkdir name of folder
+touch : makes files
+touch name of file
